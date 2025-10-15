@@ -68,5 +68,5 @@ The image is uploaded to DockerHub automatically.
 💭 Reflection
 
 This project helped me understand how Docker makes it easy to build and deploy applications.
-I learned how to write a Dockerfile, use GitHub Actions for automation, and securely push images to DockerHub.
-Now I feel more confident about using Docker and automation in real projects.
+I learned how to write a Dockerfile, use GitHub Actions for automation, and securely push images to DockerHub quite a new and challening module
+Now I feel more confident about using Docker and automation in real projects
