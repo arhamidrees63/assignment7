@@ -138,3 +138,7 @@ cython_debug/
 
 # JupyterLab
 .jupyterlab-config
+
+# Allow qr_codes to be tracked
+!qr_codes/
+!qr_codes/*.png
