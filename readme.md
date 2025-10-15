@@ -5,6 +5,10 @@
 
 ! [Docker QR Image](/qr_codes/QRCode_20251015010558.png "My QR Code Link")
 
+## My Github Repository
+
+! [Github Repo](qr_codes/QRCode_20251015013400.png "My QR Code Link")
+
 # 🧩 1. Install Homebrew (Mac Only)
 
 > Skip this step if you're on Windows.
