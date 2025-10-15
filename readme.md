@@ -7,11 +7,12 @@ It shows how to use Docker, GitHub Actions, and Python together for automation a
 
 ## My DockerHub Image
 
-! [Docker QR Image](/qr_codes/QRCode_20251015010558.png "My QR Code Link")
+![Docker QR Image](qr_codes/QRCode_20251015010558.png "My QR Code Link")
 
 ## My Github Repository
 
-! [Github Repo](qr_codes/QRCode_20251015013400.png "My QR Code Link")
+![Github Repo](qr_codes/QRCode_20251015013400.png "My QR Code Link")
+
 ---
 
 ### ⚙️ Features
