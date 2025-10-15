@@ -1,6 +1,9 @@
 # 📦 Project Setup
 
 ---
+## My DockerHub Image
+
+! [Docker QR Image](/qr_codes/QRCode_20251015010558.png "My QR Code Link")
 
 # 🧩 1. Install Homebrew (Mac Only)
 
